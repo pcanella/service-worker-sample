@@ -9,7 +9,7 @@ title: "Simple Service Workers; Or why the hell does everyone keep talking about
 </div>
 
 
-*“Oh service workers this, servers workers that, offline mode will end native apps!”*
+*“Oh service workers this, service workers that, offline mode will end native apps!”*
 
 **Have you heard this before**? If you’re a Javascript developer and haven’t been living under a rock for the past 6-12 months, I bet you have too. I remember hearing about Service Workers and just assumed they were the be-all-end-all for client side JS. 
 
